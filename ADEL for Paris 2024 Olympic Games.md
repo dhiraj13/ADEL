@@ -160,9 +160,159 @@ A TUE ensures that athletes can be treated for medical conditions even if the tr
 ## Applying for a TUE or having an existing TUE recognized before the Games
 Check below to find out more about the process. Don't forget to click on the "+" to find more information.
 
+# 3. Doping Control at the Games
+Testing is in place to protect athletes, your hard work and the integrity of sport.
+It is important for athletes to know and understand the testing process and what your rights and responsibilities are.
+## Who can test athletes at the Games?
+Only organizations who have authority can test athletes
+1. International Testing Agency (ITA) [The ITA can conduct in-competition and out-of-competition testing during the period of the Games.]
+2. Anti-Doping Organizations (ADOs) with testing authority [ADOs with testing authority over athletes can test outside the event venues - in cordination with, and subject to approval from the ITA.]
+3. World Anti-Doping Agency (WADA) [WADA has authority to test in exceptional circumstances.]
 
+## Remember!
+Testing can take place **ANY TIME** and at **ANY PLACE**
 
+## Doping control at the Games
+When athletes are selected for doping control (testing), they will go through the following process:
+Testing process: Athlete selection, athlete notification, reporting to the doping control station, providing a sample(s), review and sign Doping Control Form (DCF)
 
+## Athlete Notification
+A chaperone or Doping Control Officer (DCO) will notify the athlete that they have been selected for doping control. The chaperone or DCO will ask to see the athlete's accreditation. The chaperone and DCO will also have accreditations.
+The chaperone or DCO will then explain the athlete’s rights and responsibilities.
+### Athletes have the right to:
+- Have a representative present
+- Ask for an interpreter
+- Ask questions about the sample collection process
+- Ask for modifications
+- Ask for a delay in reporting to the doping control station for a valid reason
+
+### Athletes have the responsibility to:
+- Stay within direct observation of the DCO/chaperone at all times from the point of notification until the end of the sample collection process
+- Show valid identification (accreditation)
+- Respect the sample collection procedures (failure to do so may constitute an Anti-Doping Rule Violation (ADRV)
+- Report immediately for sample collection, unless there are valid reasons for a delay
+
+## What are the valid reasons to request a delay?
+### For out-of-competition testing:
+- Locating a representative or interpreter
+- Completing a training session
+- Receiving medical treatment
+- Obtaining photo identification
+
+### For in-competition testing:
+- Participating in a medal ceremony
+- Fulfilling media commitments (i.e. attending press conferences, giving an interview etc.)
+- Competing in additional competitions
+- Having a cool down session
+- Obtaining necessary medical treatment
+- Locating a representative and/ or interpreter
+- Obtaining photo identification (accreditation)
+
+## Reporting to the Doping Control Station
+
+Athletes will be asked to provide a urine and/or blood sample.
+
+### For urine sample collection
+- Athletes will choose a sample collection vessel – make sure that it is sealed and intact.
+- A DCO who is the same gender as the athlete will witness the sample being provided.
+- Athletes will choose a sample collection kit - make sure that it is sealed, intact and that the numbers (codes) are the same on both bottles.
+- Athletes will divide the urine sample into “A” and “B” bottles and seal them.
+- Athletes will review the information on the Doping Control Form (DCF) and add in some detail such as the name of their coach, the medications and supplements they have taken in the last 7 day - a copy will be sent to their email address.
+
+### For blood sample collection
+- Blood will be collected by a Blood Control Officer (BCO) who is trained in taking blood and has adequate qualifications.
+- Athletes will choose a blood sample collection kit - make sure that it is sealed, intact and that the numbers on all vials are the same.
+- Athletes need to be seated for 10 minutes (at rest) before blood can be taken.
+- When an Athlete Biological Passport (ABP) blood test is collected, athletes must not have competed or trained in the two hours prior. So, an athlete may need chaperoning for an extended period of time if they have recently been active.
+
+### Dried Blood Spot (DBS) sample collection
+During the Olympic Games, DBS samples may also be collected.
+
+DBS is a method that collects a few drops of blood by pricking athlete's fingertip. The drops are placed into special filter paper cards to be analyzed in WADA-accredited laboratories.
+
+A DCO or BCO who is trained in taking capillary blood samples and has adequate qualifications will collect the sample.
+
+### Remember!
+If there are any concerns about the doping control process, write them down on the DCF or on a supplementary report form.
+
+## Doping control steps in order
+1. The athlete is selected for testing
+2. The chaperone or DCO notifies the athlete of their selection
+3. The athlete reports directly to the doping control station
+4. The athlete provides a urine and/ or blood sample
+5. The athlete reviews and signs the DCF
+
+## What happens after the test?
+- Samples will be sent to a WADA accredited laboratory confidentially, this means they do not know the athlete's name or nationality - just the sample number
+- The A sample is opened and analyzed
+- If the A sample is negative, it is the end of the process
+- Samples can be stored for up to 10 years and can be further analyzed
+- The B sample is securely stored
+
+### If the A sample tests positive
+- The ITA will notify the athlete and state the date, time and place for the opening of the B sample if requested by the athlete
+- The athlete can choose not to have the B sample analyzed
+- The athlete and/or their representative should have the opportunity to attend the B sample opening
+- The athlete can also waive their right to be present during the opening of the B sample
+
+### If the B sample tests positive
+- If the B sample confirms the finding of the A sample, or if the athlete decides not to have the B sample analyzed, the finding of the A sample is considered an alleged ADRV
+
+## Consequences
+Anyone committing an ADRV knows they may face a ban from sport. But there are other consequences too.
+- Disqualification of competition results
+- Exclusion and loss of accreditation from the Games
+- Loss of all medals, points, prizes
+- Target testing and possible investigations of the team in a team sport
+- In some cases, loss of points, disqualification from a competition or from the entire Games for the team
+- Athlete support personnel may be investigated, and if the athlete is a minor then an investigation is mandatory
+
+### Remember!
+It only takes one athlete in a team sport/event to test positive for the consequences to impact the entire team such as, losing medals or even disqualification. Team sports include basketball, rugby etc., and team events include 4x400m relay, team competitions, etc.
+
+## An ADRV goes well beyond the individual athlete or athlete support personnel.
+- It has an impact on those who have been supporting athletes all the way: Family, friends, teammates, sponsors, etc.
+- An athlete's reputation as well as their country and sport's reputations are affected.
+- An athlete's physical and mental health could be at risk.
+
+## Speaking up
+Everyone has a duty to protect clean sport.
+
+Taking part in clean sport requires those involved in sport to speak up when they suspect doping.
+
+If athletes or coaches suspect, witness, or know of an activity that goes against clean sport, it is their responsibility to report it.  There are different ways to report and share information to protect clean sport.
+
+### Reveal - ITA's reporting platform
+REVEAL(opens in a new tab) is the International Testing Agency’s (ITA) platform that enables you to report what you have seen, heard or experienced in a completely anonymous and secure manner – during the Olympic Games or at any other time. 
+
+All information is treated as important in a confidential and sensible manner.
+
+### Speak Up - WADA's reporting platform
+WADA's Speak Up(opens in a new tab) platform allows the reporting of any information about an individual or organization in a strictly confidential way.
+
+You can report suspected doping - any Anti-Doping Rule Violation (ADRV) or any act or omission that could go against clean sport.
+
+Many National Anti-Doping Organizations (NADOs) and International Federations (IFs) provide a way to share information.  Contact them or visit their website to find out if they have any tools to share concerns about clean sport and report doping.
+
+## Final word
+1. Ingredients in similar brands of medicine can vary among countries.
+  - Even over the counter medication for colds and headaches can contain banned substances.
+  - Before taking any medication, check the ingredients and ask a doctor or go to the Polyclinic.
+2. We understand athletes may want to celebrate when they’ve finished competing!
+  - Celebratory activities should not risk an athlete's health, medals, prizes, or their reputation.
+  - Remember, athletes can be tested any time during the Games, even if they’ve finished their events!
+
+## As a Paris 2024 Olympian, you...
+- have dreams, ambitions and goals
+- are a hero/heroine
+- are a role model
+- have the support of your nation behind you
+
+## Paris 2024 Athlete Pledge
+- I agree to compete clean
+- I will respect my sport, competitors and country
+- I will comply with rules
+- I understand the risks and will manage them
 
 
 
